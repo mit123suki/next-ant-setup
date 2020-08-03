@@ -1,0 +1,10 @@
+{
+  "filewatcher.commands": [
+    {
+      "match": "\\.less",
+      "isAsync": false,
+      "cmd": "echo compilation_started && cd ${workspaceRoot} && node less-styles-script.js && echo compilation_ended",
+      "event": "onFileChange"
+    }
+  ]
+}
