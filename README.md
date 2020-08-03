@@ -1,7 +1,7 @@
 # Ant + NextJS
 - Ant with custom theme and sass variables for reuse
 - this setup does not require customization of webpack, hence you can leverage out the built-in features like css modules, sass support without any extra configuration
-- this setup can be used for react-cra too for the reason mentioned above
+- this setup can be used for react-cra too
 
 ## Setup Instructions
 
